@@ -5,8 +5,8 @@ This curated list includes trusted websites that offer high-quality courses, han
 
 | 🔧 Platform Logo | 📚 Platform Name | 🔗 Visit Website |
 |------------------|------------------|------------------|
-| ![OpenClassrooms](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/OpenClassrooms_Logo_2021.svg/512px-OpenClassrooms_Logo_2021.svg.png) | **OpenClassrooms** | [openclassrooms.com](https://openclassrooms.com) |
-| ![Udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/512px-Udemy_logo.svg.png) | **Udemy** | [udemy.com](https://www.udemy.com) |
+| <img src="assets/openclassrooms.png" alt="openclassrooms logo" width="200px"> | **OpenClassrooms** | [openclassrooms.com](https://openclassrooms.com) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/512px-Udemy_logo.svg.png" width="100" alt="Udemy" /> | **Udemy** | [udemy.com](https://www.udemy.com) |
 | ![Coursera](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coursera_logo.svg/512px-Coursera_logo.svg.png) | **Coursera** | [coursera.org](https://www.coursera.org) |
 | ![freeCodeCamp](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.svg/512px-FreeCodeCamp_logo.svg.png) | **freeCodeCamp** | [freecodecamp.org](https://www.freecodecamp.org) |
 | ![DataCamp](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/DataCamp_logo.png/320px-DataCamp_logo.png) | **DataCamp** | [datacamp.com](https://www.datacamp.com) |
@@ -20,9 +20,9 @@ This curated list includes trusted websites that offer high-quality courses, han
 | ![Pierre Giraud](https://www.pierre-giraud.com/wp-content/uploads/2020/04/cropped-logo-site-2020.png) | **Pierre-Giraud.com** | [pierre-giraud.com](https://www.pierre-giraud.com) |
 | ![365 Data Science](https://user-images.githubusercontent.com/674621/192104102-f50d4672-6f8f-4b4b-a3e7-2d5c1781155a.png) | **365 Data Science** | [365datascience.com](https://www.365datascience.com) |
 | ![Codecademy](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Codecademy_logo.svg/512px-Codecademy_logo.svg.png) | **Codecademy** | [codecademy.com](https://www.codecademy.com) |
-| ![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/512px-GeeksforGeeks.svg.png) | **GeeksforGeeks** | [geeksforgeeks.org](https://www.geeksforgeeks.org) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/512px-GeeksforGeeks.svg.png" width="100" alt="Udemy" /> | **GeeksforGeeks** | [geeksforgeeks.org](https://www.geeksforgeeks.org) |
 | ![TutorialsPoint](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tutorialspoint_logo.png/320px-Tutorialspoint_logo.png) | **TutorialsPoint** | [tutorialspoint.com](https://www.tutorialspoint.com) |
 | ![Udacity](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Udacity_logo.svg/512px-Udacity_logo.svg.png) | **Udacity** | [udacity.com](https://www.udacity.com) |
 | ![GitHub Student Pack](https://education.github.com/pack/logo.svg) | **GitHub Student Developer Pack** | [education.github.com/pack](https://education.github.com/pack) |
 | ![TutoWebDesign](https://tutowebdesign.com/wp-content/uploads/2021/07/logo-1.png) | **TutoWebDesign** | [tutowebdesign.com](https://tutowebdesign.com) |
-| ![Replit](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png) | **Replit** | [replit.com](https://replit.com) |
+|  | **Replit** | [replit.com](https://replit.com) |
