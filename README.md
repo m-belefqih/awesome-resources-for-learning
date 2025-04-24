@@ -17,3 +17,12 @@ This curated list includes trusted websites that offer high-quality courses, han
 | ![Roadmap.sh](https://roadmap.sh/brand/logo-white.svg) | **Roadmap.sh** | [roadmap.sh](https://roadmap.sh) |
 | ![Almdrasa](https://almdrasa.com/images/logo.png) | **Almdrasa.com** | [almdrasa.com](https://almdrasa.com) |
 | ![HP LIFE](https://www.life-global.org/assets/life-logo.svg) | **HP LIFE** | [life-global.org](https://www.life-global.org) |
+| ![Pierre Giraud](https://www.pierre-giraud.com/wp-content/uploads/2020/04/cropped-logo-site-2020.png) | **Pierre-Giraud.com** | [pierre-giraud.com](https://www.pierre-giraud.com) |
+| ![365 Data Science](https://user-images.githubusercontent.com/674621/192104102-f50d4672-6f8f-4b4b-a3e7-2d5c1781155a.png) | **365 Data Science** | [365datascience.com](https://www.365datascience.com) |
+| ![Codecademy](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Codecademy_logo.svg/512px-Codecademy_logo.svg.png) | **Codecademy** | [codecademy.com](https://www.codecademy.com) |
+| ![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/512px-GeeksforGeeks.svg.png) | **GeeksforGeeks** | [geeksforgeeks.org](https://www.geeksforgeeks.org) |
+| ![TutorialsPoint](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tutorialspoint_logo.png/320px-Tutorialspoint_logo.png) | **TutorialsPoint** | [tutorialspoint.com](https://www.tutorialspoint.com) |
+| ![Udacity](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Udacity_logo.svg/512px-Udacity_logo.svg.png) | **Udacity** | [udacity.com](https://www.udacity.com) |
+| ![GitHub Student Pack](https://education.github.com/pack/logo.svg) | **GitHub Student Developer Pack** | [education.github.com/pack](https://education.github.com/pack) |
+| ![TutoWebDesign](https://tutowebdesign.com/wp-content/uploads/2021/07/logo-1.png) | **TutoWebDesign** | [tutowebdesign.com](https://tutowebdesign.com) |
+| ![Replit](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png) | **Replit** | [replit.com](https://replit.com) |
