@@ -25,4 +25,5 @@ This curated list includes trusted websites that offer high-quality courses, han
 | ![Udacity](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Udacity_logo.svg/512px-Udacity_logo.svg.png) | **Udacity** | [udacity.com](https://www.udacity.com) |
 | ![GitHub Student Pack](https://education.github.com/pack/logo.svg) | **GitHub Student Developer Pack** | [education.github.com/pack](https://education.github.com/pack) |
 | ![TutoWebDesign](https://tutowebdesign.com/wp-content/uploads/2021/07/logo-1.png) | **TutoWebDesign** | [tutowebdesign.com](https://tutowebdesign.com) |
-|  | **Replit** | [replit.com](https://replit.com) |
+| Replit logo | **Replit** | [replit.com](https://replit.com) |
+| Replit logo | **edX** | [edx.org](https://www.edx.org/) |
