@@ -27,3 +27,4 @@ This curated list includes trusted websites that offer high-quality courses, han
 | ![TutoWebDesign](https://tutowebdesign.com/wp-content/uploads/2021/07/logo-1.png) | **TutoWebDesign** | [tutowebdesign.com](https://tutowebdesign.com) |
 | Replit logo | **Replit** | [replit.com](https://replit.com) |
 | Replit logo | **edX** | [edx.org](https://www.edx.org/) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" alt="linkedin learning logo" width="200px"> | **LinkedIn Learning** | [linkedin.com/learning](https://www.linkedin.com/learning) |
