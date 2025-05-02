@@ -28,3 +28,7 @@ This curated list includes trusted websites that offer high-quality courses, han
 | Replit logo | **edX** | [edx.org](https://www.edx.org/) |
 | <img src="assets/Linkedin-Learning.png" alt="linkedin learning logo" width="200px"> | **LinkedIn Learning** | [linkedin.com/learning](https://www.linkedin.com/learning) |
 | <img src="assets/HackerRank.png" alt="HackerRank logo" width="200px"> | **HackerRank** | [HackerRank.com](https://www.hackerrank.com/) |
+| <img src="assets/HackerRank.png" alt="Mahara Tech logo" width="200px"> | **MaharaTech** | [MaharaTech.gov.eg](https://maharatech.gov.eg/) |
+| <img src="assets/HackerRank.png" alt="Amigoscode logo" width="200px"> | **Amigoscode** | [Amigoscode.com](https://www.amigoscode.com/) |
+| <img src="assets/HackerRank.png" alt="educative logo" width="200px"> | **educative** | [educative.io](https://www.educative.io/) |
+| <img src="assets/HackerRank.png" alt="scrimba logo" width="200px"> | **scrimba** | [scrimba.com](https://scrimba.com/) |
