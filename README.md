@@ -32,3 +32,4 @@ This curated list includes trusted websites that offer high-quality courses, han
 | <img src="assets/Amigoscode.png" alt="Amigoscode logo" width="200px"> | **Amigoscode** | [Amigoscode.com](https://www.amigoscode.com/) |
 | <img src="assets/educative.png" alt="educative logo" width="200px"> | **educative** | [educative.io](https://www.educative.io/) |
 | <img src="assets/Scrimba.png" alt="scrimba logo" width="200px"> | **scrimba** | [scrimba.com](https://scrimba.com/) |
+| <img src="assets/yanfaa.png" alt="Yanfaa logo" width="200px"> | **Yanfaa** | [yanfaa.com](https://yanfaa.com/us/home) |
